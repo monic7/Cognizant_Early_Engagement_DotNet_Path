@@ -14,7 +14,7 @@ Output:
 
 
 
-SELECT CONCAT ( adress,", ", city ) AS Address FROM Student
+SELECT CONCAT ( address,", ", city ) AS Address FROM Student
 ORDER BY Address DESC;
 
 
